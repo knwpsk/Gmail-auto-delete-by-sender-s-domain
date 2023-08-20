@@ -5,7 +5,7 @@ Click a spam email that escaped Google's filters. Instead of using Gmail's "move
 you can use this tool to block the sender's entire domain for the future.
 
 All you need to do is type CTRL-L to add a special label to the thread. When this script runs (on a time trigger), 
-it will find those tagged emails, and add the senders whole domain to a Filter that sends their emails to the trash bin.
+it will find those tagged emails, and add the sender's whole domain to a Filter that sends their emails to the trash bin.
 
 
 ************* HOW TO DEPLOY THIS SCRIPT:
